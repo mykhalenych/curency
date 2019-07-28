@@ -1,0 +1,47 @@
+.body{
+    width: 1200;
+    height: 650;
+    background: #c0c0c0;
+    margin: 0;
+    color:#000 ; font-size: 16px
+    
+}
+.one{
+    width: 1200;
+    height: 650;
+    background: #c0c0c0;
+    margin: 0;
+    
+}
+.propert{
+    font-size: 19px;
+    color: #ffffff;
+    transition: 1s;
+}
+h6{
+    font-weight: 700;
+}
+
+.curr-table >.buy[name]{
+    height: 1.9rem;
+    font-weight: 700;
+    text-align: center;
+ 
+}
+#endCurrence{
+    font-weight: 600;
+
+}
+.validate{
+    width: 580px;
+    height: 24px;
+    margin: 10px;
+}
+.pop{
+    margin: 0px;
+}
+@media (max-width: 576px) { .validate{
+    width: 330px;
+    height: 24px;
+    margin: 10px;
+}}
